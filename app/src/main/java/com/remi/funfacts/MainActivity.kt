@@ -40,7 +40,5 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this, "Yay!, Our Activity was created!", Toast.LENGTH_LONG).show()
         Log.d("MainActivity", "Were logging from the onCreate method")
-
-
     }
 }
